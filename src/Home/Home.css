@@ -1,0 +1,15 @@
+.banner{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/musicajjg-e86d3.appspot.com/o/bannerjpg.jpg?alt=media&token=1e53659d-0d56-4617-86b9-7e59c9d00d74");
+    background-position: top center;
+    background-size: cover;
+    padding:25%;
+    background-attachment: fixed;
+}
+
+.banner2{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/musicajjg-e86d3.appspot.com/o/banner2.jpg?alt=media&token=12ff618f-c2e6-48ee-80c5-f43b5bad3c92");
+    background-position: top center;
+    background-size: cover;
+    padding:25%;
+    background-attachment: fixed;
+}
