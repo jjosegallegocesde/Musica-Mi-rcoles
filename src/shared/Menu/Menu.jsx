@@ -36,9 +36,9 @@ export function Menu() {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link">
+                <Link className="nav-link" to="/musica">
                   Musica
-                </a>
+                </Link>
               </li>
               <li className="nav-item">
                 <Link className="nav-link" to="/hooks">
